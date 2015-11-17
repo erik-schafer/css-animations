@@ -6,4 +6,5 @@ Bring your HTML back from the dead with CSS animations.
 	<li>Button</li>
 	<li>Push Menu</li>
 	<li>Card Flip</li>
+	<li>Loaders</li>
 </ol>
