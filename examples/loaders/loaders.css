@@ -1,0 +1,48 @@
+body {
+    background: #0094ff;
+}
+
+/* Loaders */
+.loader-1,
+.loader-2,
+.loader-3 {
+    position: relative;
+    width: 40px;
+    height: 40px;
+    margin: 100px auto;
+}
+
+/* Balls */
+.ball-1,
+.ball-2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    background-color: #fff;
+    opacity: 0.6;
+}
+
+/* Cubes */
+.cube-1,
+.cube-2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #fff;
+    width: 15px;
+    height: 15px;
+}
+
+/* Bars */
+.bar-1,
+.bar-2,
+.bar-3,
+.bar-4 {
+    background-color: #fff;
+    height: 100%;
+    width: 6px;
+    display: inline-block;
+}
