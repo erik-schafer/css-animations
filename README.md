@@ -8,3 +8,8 @@ Bring your HTML back from the dead with CSS animations.
 	<li>Card Flip</li>
 	<li>Loaders</li>
 </ol>
+
+###Part #2 - Keyframe Animations
+<ol>
+	<li>Loaders</li>
+</ol>
