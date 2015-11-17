@@ -13,3 +13,8 @@ Bring your HTML back from the dead with CSS animations.
 <ol>
 	<li>Loaders</li>
 </ol>
+
+###Bonus - Path Morphing with Snap.svg
+<ol>
+	<li>Logo Morph</li>
+</ol>
